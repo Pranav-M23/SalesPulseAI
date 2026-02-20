@@ -35,19 +35,20 @@ This repository is the official project template. All participants must fork thi
 
 ---
 
-## 📁 Project Structure
+## 📁 Submission Guidelines
 
 There is no enforced folder structure.
 Organize your repository however you like.
 
-However, your fork must include a clear README with the following sections:
+However, your fork must include the following:
 
-1. **Problem Statement**: What problem are you solving and why?
+### Readme File
+* **Problem Statement**: What problem are you solving and why?
 
-2. **Project Overview**: What your project does and how agentic AI is used.
+* **Project Overview**: What your project does and how agentic AI is used.
 
-3. **Tech Stack**: Languages, frameworks, APIs, models, tools used.
+* **Tech Stack**: Languages, frameworks, APIs, models, tools used.
 
-4. **Setup Instructions**: How to run the project locally.
+* **Setup Instructions**: How to run the project locally.
 
-5. **Demo Links**: Live demo / video demo / screenshots.
+* **Demo Links**: Live demo / video demo / screenshots.
