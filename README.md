@@ -6,13 +6,10 @@ This repository is the official project template. All participants must fork thi
 ---
 
 ## 📌 How to Participate
-* Fork this repository to your GitHub account
-
-* Build your entire project inside your fork
-
-* Push your code, docs, and demo links to your fork
-
-* Submit your forked repository link as your final submission
+All teams participating in Kaizen'26 are required to fork this repository.  
+All development must be done and uploaded to your forked repository.  
+You are not allowed to use any pre-existing or personal repositories.  
+**Make sure your forked repo is public.**
 
 >❗ Do not submit pull requests to this repo.
 > Your forked repository is your submission.
@@ -39,10 +36,8 @@ This repository is the official project template. All participants must fork thi
 
 There is no enforced folder structure.
 Organize your repository however you like.
+However, your fork's readme file must include the following:
 
-However, your fork must include the following:
-
-### Readme File
 * **Problem Statement**: What problem are you solving and why?
 
 * **Project Overview**: What your project does and how agentic AI is used.
@@ -52,3 +47,5 @@ However, your fork must include the following:
 * **Setup Instructions**: How to run the project locally.
 
 * **Demo Links**: Live demo / video demo / screenshots.
+
+
