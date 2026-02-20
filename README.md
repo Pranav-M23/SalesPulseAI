@@ -1,5 +1,5 @@
 # Kaizen'26 Agentic AI Hackathon Template
-<img width="3240" height="2160" alt="Kaizen&#39;26 Banner" src="https://github.com/user-attachments/assets/6ece56b6-2cfd-4f4a-a84a-679a1233e0fc" />
+<img width="3240" height="2160" alt="Kaizen&#39;26 Banner" src="https://github.com/user-attachments/assets/6ece56b6-2cfd-4f4a-a84a-679a1233e0fc" align="left"/>
 This repository is the official project template. All participants must fork this repo and build their project inside their fork.
 
 ## 📌 How to Participate
