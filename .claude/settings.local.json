@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(node --version:*)",
+      "Bash(npm --version:*)",
+      "Bash(where:*)",
+      "Bash(cmd.exe /c \"where node\")",
+      "Bash(cmd.exe /c \"node --version && npm --version\")",
+      "Bash(export PATH=\"/c/Program Files/nodejs:$PATH\")",
+      "Bash(npm install:*)",
+      "Bash(pip install:*)",
+      "Bash(python -m src.main:*)",
+      "Bash(npm run dev:*)"
+    ]
+  }
+}

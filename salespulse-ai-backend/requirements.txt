@@ -1,0 +1,12 @@
+FastAPI
+uvicorn
+pydantic
+sqlalchemy
+alembic
+python-dotenv
+httpx
+twilio
+sendgrid
+pytest
+pytest-asyncio
+loguru
